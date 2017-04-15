@@ -9,7 +9,7 @@
     <string name="createcity_cityname">Nom de la ville:</string>
     <string name="control_back">Retour</string>
     <string name="createcity_start">Démarrer</string>
-    <string name="loadcity_load">Reprendre</string>
+    <string name="loadcity_load">Charger</string>
     <string name="welcome_agree">J\'accepte</string>
     <string name="welcome_content">Bienvenue sur TheoTown
 
@@ -114,7 +114,7 @@
     <string name="draft_bigpark00_title">Grand parc</string>
     <string name="draft_bigpark00_text">Les habitants vont aimer ce grand parc.</string>
     <string name="draft_park03_text">Les habitants vont aimer à coup sûr.</string>
-    <string name="draft_medic00_title">Médecin</string>
+    <string name named="draft_medic00_title">Médecin</string>
     <string name="draft_medic00_text">C\'est ici que les habitants peuvent consulter un médecin.</string>
     <string name="draft_medic01_title">Hôpital</string>
     <string name="draft_medic01_text">Les habitants se sentent plus en sécurité à proximité d\'un hôpital.</string>
@@ -136,7 +136,7 @@
     <string name="gamemode_easy">Facile</string>
     <string name="gamemode_middle">Moyen</string>
     <string name="gamemode_hard">Difficile</string>
-    <string name="game_infinitemoney">Jeu libre</string>
+    <string name="game_infinitemoney">bac à sable</string>
     <string name="about_title">Crédits</string>
     <string name="about_cmdback">Retour</string>
     <string name="about_text">Le jeu TheoTown pour Android est produit par</string>
@@ -160,7 +160,7 @@
     <string name="draft_gillender00_title">Tour Gillender</string>
     <string name="draft_gillender00_text">La célèbre tour Gillender. Merci pour les 250,000 téléchargements :D</string>
     <string name="topic_thanks">Merci pour l\'aide apportée !</string>
-    <string name="topic_cake">The cake is a lie!</string>
+    <string name="topic_cake">c'est un piège !</string>
     <string name="topic_panic">Pas de panique</string>
     <string name="draft_bigschool00_title">Collège</string>
     <string name="draft_bigschool00_text">Lieu d\'apprentissage pour les adolescents.</string>
@@ -822,7 +822,7 @@
     <string name="disaster_ufo_text">Un OVNI attaque votre ville!</string>
     <string name="disaster_ufo_cmdtext">Cibler</string>
     <string name="topic_theons">Nouvelle monnaie: Theons Ͳ</string>
-    <string name="topic_wip">Travaux en cours. Ne pas traverser.</string>
+    <string name="topic_wip">Travaux en cours. Ne pas trepasser.</string>
     <string name="topic_belong">Vos villes nous appartiennent >:D</string>
     <string name="topic_love">All you need is love</string>
     <string name="topic_build">J\'vais construire ma ville avec des grattes ciel et des parcs!</string>
@@ -831,7 +831,7 @@
     <string name="topic_spoon">There is no spoon</string>
     <string name="topic_relax">Relax, it\'s just a game</string>
     <string name="topic_cats">Cats are so sweeeet</string>
-    <string name="topic_force">May the Force be with you</string>
+    <string name="topic_force">Que la force soit avec toi!</string>
     <string name="topic_plugins">On a maintenant des plugins!</string>
     <string name="topic_page">Visitez notre site: www.theotown.de</string>
     <string name="topic_habitants">Tu peux atteindre 1,000,000</string>
@@ -900,7 +900,7 @@
     <string name="ci_budget_getmoney_text">Echange %1$s contre une petite compensation.</string>
     <string name="notify_badattribute">Il faut améliorer de %1$sle bonheur pour que %2$s puisse venir dans ta ville.</string>
     <string name="game_remaining_doubleincome">Revenu doublé pendant %1$,d jours</string>
-    <string name="dialog_diamondshop_title">Shop</string>
+    <string name="dialog_diamondshop_title">Magasin</string>
     <string name="features_notenough">Pas assez de %1$s</string>
     <string name="dialog_getrank_text">Tu peux débloquer ce rang tout de suite, si tu veux.</string>
     <string name="features_buy">Acheter maintenant</string>
@@ -908,7 +908,7 @@
     <string name="dialog_redeempromo_title">Voilà quelques diamant!</string>
     <string name="dialog_redeempromo_text">On dirait que ces diamants sont à toi maintenant.</string>
     <string name="dialog_present_cmdad">Doubler ça</string>
-    <string name="dialog_connectroad_title">Connecter à la région voisine</string>
+    <string name="dialog_connectroad_title">Connecter à la ville voisine</string>
     <string name="dialog_connectroad_text">Voulez vous connecter cette route aux villes voisines?</string>
     <string name="settings_autosave">Sauvegarde Auto</string>
     <string name="region_unlock">Débloquer</string>
