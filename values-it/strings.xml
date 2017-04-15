@@ -766,9 +766,9 @@
     <string name="draft_alert_swat00_text">Se c\'è una rivolta, solo la SWAT può gestirla.</string>
     <string name="control_continue">Continuare</string>
     <string name="settings_winter">Inverno</string>
-    <string name="notify_riot_noreason">There\'s a riot for no reason!</string>
-    <string name="notify_riot_reason">There\'s a riot because of %1$s!</string>
-    <string name="draft_marker_powermarker_title">Energy</string>
+    <string name="notify_riot_noreason">C\'è una rivolta senza motivo!</string>
+    <string name="notify_riot_reason">C'è un tumulto a causa di </string>
+    <string name="draft_marker_powermarker_title">Energia</string>
     <string name="draft_road04_text">A nice road with trees.</string>
     <string name="draft_marker_watermarker_title">Water</string>
     <string name="draft_road05_text">The perfect road to connect distant areas.</string>
